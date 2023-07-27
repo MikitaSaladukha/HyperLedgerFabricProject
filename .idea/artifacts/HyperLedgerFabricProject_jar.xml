@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HyperLedgerFabricProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HyperLedgerFabricProject_jar</output-path>
+    <root id="archive" name="HyperLedgerFabricProject.jar">
+      <element id="module-output" name="HyperLedgerFabricProject" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/mvc/javax.mvc-api/1.0-edr2/javax.mvc-api-1.0-edr2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/ozark/ozark/1.0.0-m02/ozark-1.0.0-m02.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
